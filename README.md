@@ -8,5 +8,5 @@ Proffesional Portfolio Building = 19
 
 Total = 100
 
-Completed = 19
-Remaining = 81
+Completed = 22
+Remaining = 78
